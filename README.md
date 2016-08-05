@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+My first repository.
+This is my first edit in order to learn Git Hub.
